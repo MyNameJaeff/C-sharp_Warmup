@@ -1,0 +1,14 @@
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\bin\Debug\net8.0\GrundernaOOP.exe
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\bin\Debug\net8.0\GrundernaOOP.deps.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\bin\Debug\net8.0\GrundernaOOP.runtimeconfig.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\bin\Debug\net8.0\GrundernaOOP.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\bin\Debug\net8.0\GrundernaOOP.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.AssemblyInfo.cs
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\refint\GrundernaOOP.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\GrundernaOOP.genruntimeconfig.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\GrundernaOOP\GrundernaOOP\obj\Debug\net8.0\ref\GrundernaOOP.dll
