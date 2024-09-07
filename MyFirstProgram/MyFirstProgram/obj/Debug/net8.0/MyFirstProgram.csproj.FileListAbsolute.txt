@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.exe
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.deps.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.runtimeconfig.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.sourcelink.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\refint\MyFirstProgram.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\MyFirstProgram.dll
