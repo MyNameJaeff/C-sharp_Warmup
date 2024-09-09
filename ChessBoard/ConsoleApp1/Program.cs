@@ -11,15 +11,24 @@ class Program
         Console.WriteLine("How many lines? (Max 26):");
         var lineCount = Console.ReadLine()!;
 
-        // Get the squares from the user
-        Console.WriteLine("What should the white be?:");
-        var white = Console.ReadLine()!; //"◻︎" Does not seem to work with theese, working on fixing
-        Console.WriteLine("What should the black be?:");
-        var black = Console.ReadLine()!; //"◼︎" Does not seem to work with theese, working on fixing
+        string white; string black; string piece;
 
-        // Get the piece symbol from the user
-        Console.WriteLine("How do you want the piece to look?:");
-        var piece = Console.ReadLine()!;
+        Console.WriteLine("Do you want custom stuff? (y/n):");
+        if(Console.ReadLine() == "y") { 
+            // Get the squares from the user
+            Console.WriteLine("What should the white be?:");
+            white = Console.ReadLine()!;
+            Console.WriteLine("What should the black be?:");
+            black = Console.ReadLine()!;
+            Console.WriteLine("How do you want the piece to look?:");
+            piece = Console.ReadLine()!;
+        }
+        else
+        {
+            white = "◻︎";
+            black = "◼︎";
+            piece = "🙂";
+        }
 
         // Get the piece location
         Console.WriteLine("Where do you want to place the piece? (A-Z & Max 26):");
