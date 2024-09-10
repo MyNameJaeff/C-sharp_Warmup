@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\bin\Debug\net8.0\termometerProj.exe
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\bin\Debug\net8.0\termometerProj.deps.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\bin\Debug\net8.0\termometerProj.runtimeconfig.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\bin\Debug\net8.0\termometerProj.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\bin\Debug\net8.0\termometerProj.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.AssemblyInfo.cs
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.sourcelink.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\refint\termometerProj.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\termometerProj.genruntimeconfig.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\termometerProj\termometerProj\obj\Debug\net8.0\ref\termometerProj.dll

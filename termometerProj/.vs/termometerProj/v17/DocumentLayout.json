@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\termometerProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA19B2C-75DB-43BB-9359-1BA35CF76F1D}|termometerProj\\termometerProj.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\termometerproj\\termometerproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA19B2C-75DB-43BB-9359-1BA35CF76F1D}|termometerProj\\termometerProj.csproj|solutionrelative:termometerproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\termometerProj\\termometerProj\\Program.cs",
+              "RelativeDocumentMoniker": "termometerProj\\Program.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\termometerProj\\termometerProj\\Program.cs",
+              "RelativeToolTip": "termometerProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:30:13.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
