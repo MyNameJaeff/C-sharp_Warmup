@@ -1,20 +1,16 @@
 ﻿// Fredrik Andersson .NET24
 int number = 11;
 
-if(number > 10) // Kollar ifall satt tal är större än 10, ifall det inte är det så skriv ut att det är lågt tal
-{
-    Console.WriteLine("Talet är stort!");
-}
-else
-{
-    Console.WriteLine("Oj. Lågt tal!");
-}
+// Checks if the number is greater than 10, otherwise a message is displayed that the number is low
+Console.WriteLine((number > 10) ? "The number is large!" : "Oh, low number!");
 
-Console.WriteLine("Vad heter du?"); // Skriver ut en fråga som sedan tar emot ett svar som en sträng: "namn" som sedan anväds för att säga "Hej namn!"
-string namn = Console.ReadLine() ?? "Namn";
-Console.WriteLine("Hej " + namn + "!");
+// Asks the user for their name and then greets them
+Console.WriteLine("What is your name?");
+string name = Console.ReadLine() ?? "Name";
+Console.WriteLine($"Hello {name}!");
 
-for(int o = 0; o <= number; o++) // Skriver ut alla tal mellan 0 - tidigare tal
+// Prints all numbers between 0 and the chosen number
+for (int o = 0; o <= number; o++)
 {
     Console.WriteLine(o);
 }

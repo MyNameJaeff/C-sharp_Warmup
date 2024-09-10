@@ -4,7 +4,6 @@
     {
         // Set output encoding to Unicode to display special characters like squares
         Console.OutputEncoding = System.Text.Encoding.Unicode; // Does not seem to do anything due to my terminal not allowing utf-8 characters?
-        
 
         // Get the number of lines
         Console.WriteLine("How many lines? (Max 26):");
