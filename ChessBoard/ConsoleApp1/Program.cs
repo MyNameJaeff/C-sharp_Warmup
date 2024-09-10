@@ -1,8 +1,6 @@
-﻿using System;
-
-class Program
+﻿class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         // Set output encoding to Unicode to display special characters like squares
         Console.OutputEncoding = System.Text.Encoding.Unicode; // Does not seem to do anything due to my terminal not allowing utf-8 characters?
@@ -65,20 +63,7 @@ class Program
             var str = "";
             for (var o = 1; o <= linesInt; o++)
             {
-                // Check if the current location is where the piece should be placed
-                if (location1 == o && location2 == i)
-                {
-                    str += piece; // Place the piece
-                }
-                // Alternate between white and black squares
-                else if ((i + o) % 2 == 0)
-                {
-                    str += white; // Place white square
-                }
-                else
-                {
-                    str += black; // Place black square
-                }
+                str += (location1 == o && location2 == i) ? piece : (i + o) % 2 == 0 ? white : black;
             }
             Console.WriteLine(str); // Output the row
         }

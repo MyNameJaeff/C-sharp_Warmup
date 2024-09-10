@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fredr\\.nuget\\packages\\": {}
+    "/Users/fredrik.andersson31/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ChessBoard\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/ChessBoard/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ChessBoard\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ChessBoard\\ConsoleApp1\\obj\\",
+      "projectPath": "/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/ChessBoard/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/Users/fredrik.andersson31/.nuget/packages/",
+      "outputPath": "/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/ChessBoard/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/fredrik.andersson31/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
