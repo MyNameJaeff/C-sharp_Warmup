@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("termometerProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8522698495f4ce53c2db8ca2de32d1758dd6cb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2bed7eb7278e90ee38cfb2ec07bc2445977e01")]
 [assembly: System.Reflection.AssemblyProductAttribute("termometerProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("termometerProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

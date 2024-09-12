@@ -9,7 +9,7 @@
             if (message == "exit" || message == "x") return;
 
 
-            float temperature = float.Parse(message);
+            decimal temperature = Convert.ToDecimal(message);
             //Console.WriteLine((temperature >= 30) ? "Jättevarmt" : (temperature < 20) ? "Hösttemperatur" : "Varmt");
 
             if (temperature >= 30)
