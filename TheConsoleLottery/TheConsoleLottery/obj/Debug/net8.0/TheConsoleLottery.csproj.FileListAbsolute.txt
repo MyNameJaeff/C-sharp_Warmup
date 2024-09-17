@@ -1,0 +1,15 @@
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/bin/Debug/net8.0/TheConsoleLottery
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/bin/Debug/net8.0/TheConsoleLottery.deps.json
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/bin/Debug/net8.0/TheConsoleLottery.runtimeconfig.json
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/bin/Debug/net8.0/TheConsoleLottery.dll
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/bin/Debug/net8.0/TheConsoleLottery.pdb
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.AssemblyInfoInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.AssemblyInfo.cs
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.csproj.CoreCompileInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.sourcelink.json
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.dll
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/refint/TheConsoleLottery.dll
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.pdb
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/TheConsoleLottery.genruntimeconfig.cache
+/Users/fredrik.andersson31/Documents/GitHub/C-sharp_Warmup/TheConsoleLottery/TheConsoleLottery/obj/Debug/net8.0/ref/TheConsoleLottery.dll
