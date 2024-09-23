@@ -1,0 +1,15 @@
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.exe
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.deps.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.runtimeconfig.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.AssemblyInfo.cs
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.sourcelink.json
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\refint\NumbersGame.dll
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.pdb
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.genruntimeconfig.cache
+C:\Users\fredr\source\repos\ChasC#Warmup\C-sharp_Warmup\NumbersGame\NumbersGame\obj\Debug\net8.0\ref\NumbersGame.dll
