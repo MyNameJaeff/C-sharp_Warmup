@@ -1,9 +1,12 @@
-﻿class Program
+﻿using System.Text;
+
+class Program
 {
     private static void Main(string[] args)
     {
-        // Set output encoding to Unicode to display special characters like squares
-        Console.OutputEncoding = System.Text.Encoding.Unicode; // Does not seem to do anything due to my terminal not allowing utf-8 characters?
+        // Set output and input encoding to Unicode to display special characters like squares or emojis
+        Console.OutputEncoding = Encoding.Unicode;
+        Console.InputEncoding = Encoding.Unicode;
 
         // Get the number of lines
         Console.WriteLine("How many lines? (Max 26):");
@@ -16,11 +19,11 @@
         {
             // Get the squares from the user
             Console.WriteLine("What should the white be?:");
-            white = Console.ReadLine()!;
+            white = Console.In.ReadLine()!;
             Console.WriteLine("What should the black be?:");
-            black = Console.ReadLine()!;
+            black = Console.In.ReadLine()!;
             Console.WriteLine("How do you want the piece to look?:");
-            piece = Console.ReadLine()!;
+            piece = Console.In.ReadLine()!;
         }
         else
         {
