@@ -4,8 +4,8 @@
     {
         public bool IsLeader { get; set; }
 
-        public AfricanLion(string name = "African Leo", int age = 4, double weight = 190.0, string maneColor = "Golden", bool isLeader = false)
-            : base(name, age, weight, maneColor)
+        public AfricanLion(string name = "African Leo", int age = 4, double weight = 190.0, string maneColor = "Golden", bool isWild = true, bool isLeader = false)
+            : base(name, age, weight, maneColor, isWild)
         {
             IsLeader = isLeader;
         }

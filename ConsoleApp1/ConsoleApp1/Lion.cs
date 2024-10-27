@@ -1,11 +1,11 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Lion : Animal
+    internal class Lion : Mammal
     {
         public string ManeColor { get; set; }
 
-        public Lion(string name = "Leo", int age = 4, double weight = 190.0, string maneColor = "Golden")
-            : base(name, age, weight, "Lion")
+        public Lion(string name = "Leo", int age = 4, double weight = 190.0, string maneColor = "Golden", bool isWild = true)
+            : base(name, age, weight, isWild)
         {
             ManeColor = maneColor;
         }

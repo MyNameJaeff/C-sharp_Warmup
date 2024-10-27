@@ -1,10 +1,11 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Giraffe : Animal
+    internal class Giraffe : Mammal
     {
         public double NeckLength { get; set; }
-        public Giraffe(string name = "Geoffrey", int age = 5, double weight = 800.0, double neckLength = 2.0)
-            : base(name, age, weight, "Giraffe")
+
+        public Giraffe(string name = "Geoffrey", int age = 5, double weight = 800.0, double neckLength = 2.0, bool isWild = true)
+            : base(name, age, weight, isWild)
         {
             NeckLength = neckLength;
         }

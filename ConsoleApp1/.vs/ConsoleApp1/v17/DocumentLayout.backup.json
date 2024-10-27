@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\hippo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\hippo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\africanlion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fredr\\source\\repos\\chasc#warmup\\c-sharp_warmup\\consoleapp1\\consoleapp1\\hippo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDB6676-621D-43C6-A5AB-29C877A609C1}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\hippo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AsiaticLion.cs",
-              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AsiaticLion.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\AsiaticLion.cs",
-              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AsiaticLion.cs",
-              "RelativeToolTip": "ConsoleApp1\\AsiaticLion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:05:25.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AfricanLion.cs",
-              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AfricanLion.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\AfricanLion.cs",
-              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AfricanLion.cs",
-              "RelativeToolTip": "ConsoleApp1\\AfricanLion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:05:14.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Giraffe.cs",
-              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Giraffe.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Giraffe.cs",
-              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Giraffe.cs",
-              "RelativeToolTip": "ConsoleApp1\\Giraffe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:35:27.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lion.cs",
-              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Lion.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Lion.cs",
-              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Lion.cs",
-              "RelativeToolTip": "ConsoleApp1\\Lion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:35:18.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Hippo.cs",
               "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Hippo.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Hippo.cs",
@@ -107,26 +55,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "AsiaticLion.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AsiaticLion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AsiaticLion.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AsiaticLion.cs",
+              "RelativeToolTip": "ConsoleApp1\\AsiaticLion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:05:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AfricanLion.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AfricanLion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AfricanLion.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\AfricanLion.cs",
+              "RelativeToolTip": "ConsoleApp1\\AfricanLion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:05:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giraffe.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Giraffe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Giraffe.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Giraffe.cs",
+              "RelativeToolTip": "ConsoleApp1\\Giraffe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:35:27.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Lion.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Lion.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Lion.cs",
+              "RelativeToolTip": "ConsoleApp1\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:35:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Animal.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Animal.cs",
               "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Animal.cs",
               "RelativeToolTip": "ConsoleApp1\\Animal.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T11:34:43.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\fredr\\source\\repos\\ChasC#Warmup\\C-sharp_Warmup\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T11:34:28.042Z",
               "EditorCaption": ""

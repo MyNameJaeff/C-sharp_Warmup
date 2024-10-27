@@ -4,8 +4,8 @@
     {
         public double ManeLength { get; set; }
 
-        public AsiaticLion(string name = "Asiatic Leo", int age = 4, double weight = 180.0, string maneColor = "Dark Brown", double maneLength = 0.5)
-            : base(name, age, weight, maneColor)
+        public AsiaticLion(string name = "Asiatic Leo", int age = 4, double weight = 180.0, string maneColor = "Dark Brown", double maneLength = 0.5, bool isWild = true)
+            : base(name, age, weight, maneColor, isWild)
         {
             ManeLength = maneLength;
         }

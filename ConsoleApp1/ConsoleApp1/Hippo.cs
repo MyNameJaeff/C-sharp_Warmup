@@ -1,18 +1,18 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Hippo : Animal
+    internal class Hippo : Mammal
     {
         public int JawStrength { get; set; }
-        // Konstruktor med defaultvärden
-        public Hippo(string name = "Harry", int age = 10, double weight = 1500.0, int jawStrength = 8130)
-            : base(name, age, weight, "Hippo")
+
+        public Hippo(string name = "Harry", int age = 10, double weight = 1500.0, int jawStrength = 8130, bool isWild = true)
+            : base(name, age, weight, isWild)
         {
             JawStrength = jawStrength;
         }
 
         public void BiteDown()
         {
-            Console.WriteLine($"{Name} bites down hard, with the jaw power of {JawStrength}!.");
+            Console.WriteLine($"{Name} bites down hard, with the jaw power of {JawStrength}.");
         }
 
         public override void MakeSound()
