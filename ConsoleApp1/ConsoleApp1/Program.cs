@@ -1,4 +1,7 @@
-﻿using ConsoleApp1;
+﻿using ConsoleApp1.Animals;
+using ConsoleApp1.Animals.Mammals;
+using ConsoleApp1.Animals.Mammals.Lions;
+using ConsoleApp1.Plants;
 
 public class Program
 {

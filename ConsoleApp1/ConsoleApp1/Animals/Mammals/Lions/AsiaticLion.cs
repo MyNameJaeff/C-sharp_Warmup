@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace ConsoleApp1.Animals.Mammals.Lions
 {
     internal class AsiaticLion : Lion
     {

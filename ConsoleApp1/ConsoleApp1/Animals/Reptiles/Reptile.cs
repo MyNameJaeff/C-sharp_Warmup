@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace ConsoleApp1.Animals.Reptiles
 {
     internal abstract class Reptile : Animal
     {
